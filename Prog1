@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Online Test On HTML</title>
+</head>
+<body style="font-size:190%">
+<H1 style="text-align:center;">ONLINE TEST ON HTML</H1><hr/><hr/>
+<p>
+<b>1. What is the closing tab for body?</b>
+<ol type="a">
+  <li> < body> </li>
+  <li> < body/></li>
+  <li> < / body> </li>
+  <li> /< body> </li>
+</ol>
+2.Match the following :
+<table border="1px solid black";>
+	<tr>
+		<th>Alignment</th>
+		<th>Tags</th>
+	</tr>
+	<tr>
+		<td>A)Paragraph</td>
+		<td> 1.< H1></td>
+	</tr>
+	<tr>
+		<td>B)Heading</td>
+		<td> 2.< body></td>
+	</tr>
+	<tr>
+		<td>C)Title</td>
+		<td> 3.< p></td>
+	</tr>
+	<tr>
+		<td>D)Body</td>
+		<td> 4.< Title></td>
+	</tr>
+</table>
+<ol type="A">
+  <li>a) A-3 , B-2 , C-1 ,D-4</li>
+  <li>a) A-2 , B-1 , C-4 ,D-3</li>
+  <li> a) A-4 , B-2 , C-1 ,D-3</li>
+  <li>a) A-3 , B-1 , C-4 ,D-2</li>
+</ol>
+<b>3.Select a tag used to construct a title :</b>
+<form>
+Choose a tag :
+	<select>
+		<option> < / body></option>
+		<option> < p></option>
+		<option>< title></option>
+		<option>< html></option>
+	</select>
+</form>
+<form>
+<b>4.Which tag is needed for italic style?</b><br>
+<form>
+	<input type="radio" name="tag">
+	<label>< b></label><br>
+	<input type="radio" name="tag">
+	<label>< i></label><br>
+	<input type="radio" name="tag">
+	<label>< p></label><br>
+	<input type="radio" name="tag">
+	<label>< br></label><br>
+</form>
+<b>5.What is the definition of the term HTML?</b>
+<form>
+	<input type="checkbox" name="def">
+	<label>Hypertext Markup Language</label><br>
+	<input type="checkbox" name="def">
+	<label>Hypertext Makeup Language</label><br>
+	<input type="checkbox" name="def">
+	<label>Hypertext Markup Learning</label><br>
+	<input type="checkbox" name="def">
+	<label>Hypotext Markup Learning</label><br>
+</form>
+
+</body>
+</p>
+</html>
