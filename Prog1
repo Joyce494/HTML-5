@@ -75,7 +75,7 @@ Choose a tag :
 	<input type="checkbox" name="def">
 	<label>Hypotext Markup Learning</label><br>
 </form>
-
-</body>
 </p>
+</body>
+
 </html>
